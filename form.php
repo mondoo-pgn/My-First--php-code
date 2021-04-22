@@ -20,7 +20,7 @@ echo $_ner;
 print_r ("<br/>"); ?>
 <span class= "Email"> <?php echo $_email_hayag ;?></span>
 </h1>
-<p><?php echo $_message; ?></p>
+
 
 
 
